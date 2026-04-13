@@ -3,3 +3,5 @@ Data analysis tools:
 1. DataGrip (Data cleaning)
 2. Tableau (Generating images)
 3. RStudio (Generating descriptive summary script)
+
+Sources: https://www.kaggle.com/datasets/arashnic/fitbit/data
