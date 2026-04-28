@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes Fitabase fitness tracker data to explore user activity patterns, sedentary behavior, calorie consumption, and relationships between physical activity and health indicators (BMI). The analysis is fully reproducible using MySQL, Tableau, and R Markdown.
 
+Data Source: `https://www.kaggle.com/datasets/arashnic/fitbit/data`
+
 ## Tools & Techniques
 - **Language**: R
 - **Environment**: RStudio, R Markdown
