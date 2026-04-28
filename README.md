@@ -34,5 +34,5 @@ This project analyzes Fitabase fitness tracker data to explore user activity pat
 4. Open the `.Rmd` file in RStudio and click `Knit` to generate the PDF report
 
 ## Author
-Data analysis project by Chenxu Liu
+Data analysis project by *Chenxu Liu*
 For academic and portfolio purposes.
