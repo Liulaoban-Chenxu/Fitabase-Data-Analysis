@@ -1,7 +1,7 @@
 # Bellabeat Case Study: FitBit Fitness Tracker Data Analysis – User Activity & Behavior Insights
 
 ## Project Overview
-This project analyzes Fitabase fitness tracker data to explore user activity patterns, sedentary behavior, calorie consumption, and relationships between physical activity and health indicators (BMI). The analysis is fully reproducible using MySQL, Tableau, and R Markdown.
+This project analyzes FitBit fitness tracker data to explore user activity patterns, sedentary behavior, calorie consumption, and relationships between physical activity and health indicators (BMI). The analysis is fully reproducible using MySQL, Tableau, and R Markdown.
 
 Data Source: `https://www.kaggle.com/datasets/arashnic/fitbit/data`
 
@@ -10,7 +10,7 @@ Data Source: `https://www.kaggle.com/datasets/arashnic/fitbit/data`
 - **Environment**: RStudio, R Markdown
 - **Visualization**: Tableau
 - **Reporting**: PDF generation via R Markdown
-- **Data Cleaning & Summary Statistics**: MySQL
+- **Data Cleaning & Summary Statistics**: MySQL/SQL
 
 ## Dataset
 - Data includes daily steps, activity time, and weight/BMI information.
@@ -31,7 +31,7 @@ Data Source: `https://www.kaggle.com/datasets/arashnic/fitbit/data`
 
 ## How to Run
 1. Clone this repository
-2. Open the `.sql` file in the MySQL server and click run to generate the tables
+2. Open the `.sql` file in the MySQL/SQL server and click run to generate the tables
 3. Open the `.tbl` file in the Tableau server to see the visualizations and plots
 4. Open the `.Rmd` file in RStudio and click `Knit` to generate the PDF report
 
