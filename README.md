@@ -1,4 +1,4 @@
-# Fitabase Data Analysis – User Activity & Behavior Insights
+# Bellabeat Case Study: FitBit Fitness Tracker Data Analysis – User Activity & Behavior Insights
 
 ## Project Overview
 This project analyzes Fitabase fitness tracker data to explore user activity patterns, sedentary behavior, calorie consumption, and relationships between physical activity and health indicators (BMI). The analysis is fully reproducible using MySQL, Tableau, and R Markdown.
